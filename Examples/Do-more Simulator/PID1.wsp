@@ -1,0 +1,57 @@
+[VERSION]
+APIVERSION=(100)
+VERSION=(1,0,1,2)
+[FRAME]
+PLACEMENT=(44,0,1,-1,-1,-1,-1,2,4,984,753)
+FRAME DATA=(1,1,0,0)
+[FRAME DATA]
+1=(44,0,1,-1,-1,-8,-28,69,69,566,402)
+2=(44,0,1,-1,-1,-8,-28,92,92,589,425)
+3=(44,0,1,-1,-1,-8,-28,115,115,612,448)
+4=(44,0,1,-1,-1,-8,-28,138,138,635,471)
+5=(44,0,1,-1,-1,-8,-28,0,0,497,333)
+6=(44,0,1,-1,-1,-8,-28,46,46,945,424)
+7=(44,2,3,-1,-1,-8,-28,23,23,918,397)
+8=(44,0,1,-1,-1,-1,-1,0,23,225,473)
+9=(44,0,1,-1,-1,-1,-1,0,0,0,0)
+[Ladder Views]
+F1V1=(95,1,0,7,15,5,1,1,1,0,0)
+F2V1=(95,1,0,7,15,5,1,1,1,0,0)
+F3V1=(95,1,0,7,15,5,1,1,1,0,0)
+F4V1=(95,1,0,7,15,5,1,1,1,0,0)
+F5V1=(95,1,0,7,15,5,1,1,1,0,0)
+F6V1=(95,1,0,7,15,5,1,1,1,0,0)
+[Ladder Frame 1]
+Ladder View 1z=(0,0,460,293)
+ModuleSegment=7
+[FRAME TYPES]
+1=3
+2=3
+3=3
+4=3
+5=3
+6=3
+7=20
+8=14
+9=21
+[Ladder Frame 2]
+Ladder View 1z=(0,0,460,293)
+ModuleSegment=8
+[Ladder Frame 3]
+Ladder View 1z=(0,0,460,293)
+ModuleSegment=11
+[Ladder Frame 4]
+Ladder View 1z=(0,0,460,293)
+ModuleSegment=9
+[Ladder Frame 5]
+Ladder View 1z=(0,0,460,293)
+ModuleSegment=10
+[Ladder Frame 6]
+Ladder View 1z=(0,0,862,338)
+ModuleSegment=6
+[DOCKPANE TO FRAME XREF]
+Project Browser`6852=8
+Launchpad`6855=9
+[DISPLAY MODE]
+DoMDIRestore=0
+[SYSTEM NAME]

@@ -1,0 +1,35 @@
+[VERSION]
+APIVERSION=(100)
+VERSION=(1,4,3,3)
+[FRAME]
+PLACEMENT=(44,0,1,-32000,-32000,-1,-1,26,26,1466,785)
+OUTPUT WINDOW=(44,0,1,-1,-1,-1,-1,0,23,816,200)
+FRAME DATA=(1,1,0,1)
+[FRAME DATA]
+1=(44,0,1,-1,-1,-8,-31,26,26,926,370)
+2=(44,2,3,-1,-1,-8,-31,52,52,956,400)
+3=(44,0,1,-1,-1,-1,-1,0,23,360,480)
+4=(44,0,1,-1,-1,-1,-1,0,23,360,480)
+5=(44,0,1,-1,-1,-1,-1,0,23,240,504)
+6=(44,0,1,-1,-1,-1,-1,0,23,816,200)
+[FRAME TYPES]
+1=20
+2=3
+3=14
+4=21
+5=25
+6=0
+[Ladder Views]
+F2V1=(95,1,0,7,16,5,2,1,7,0,1)
+[Ladder Frame 2]
+Ladder View 1z=(0,0,791,270)
+ModuleSegment=6
+[DOCKPANE TO FRAME XREF]
+Project Browser`6852=3
+Launchpad`6855=4
+Instruction Toolbox`4381=5
+Output`6851=6
+[DISPLAY MODE]
+DoMDIRestore=0
+[SYSTEM NAME]
+System Name=ASUSG75VX
