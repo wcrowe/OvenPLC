@@ -8,11 +8,11 @@
 		<Pane-4 Type="0" DockingCX="240" DockingCY="286" Title="Instruction Toolbox\n\n" ID="4381" DockingHolder="17" LastHolder="17"/>
 		<Pane-5 Type="0" DockingCX="360" DockingCY="286" Title="Data2\n\n" ID="6857" DockingHolder="12" LastHolder="12"/>
 		<Pane-6 Type="0" DockingCX="360" DockingCY="200" Title="Output\nOutput Window\n" ID="6851" DockingHolder="16" LastHolder="16"/>
-		<Pane-7 Type="0" DockingCX="360" DockingCY="286" Title="Data3\n\n" ID="6858" DockingHolder="11" LastHolder="11"/>
-		<Pane-8 Type="2" Horiz="1" Panes="3" Pane-1="9" Pane-2="13" Pane-3="17"/>
+		<Pane-7 Type="0" DockingCX="360" DockingCY="286" Title="Data6\n\n" ID="6861" DockingHolder="11" LastHolder="11"/>
+		<Pane-8 Type="2" DockingCX="1897" Horiz="1" Panes="3" Pane-1="9" Pane-2="13" Pane-3="17"/>
 		<Pane-9 Type="2" DockingCX="360" DockingCY="801" Panes="3" Pane-1="10" Pane-2="11" Pane-3="12"/>
-		<Pane-10 Type="1" DockingCX="275" DockingCY="417" Panes="2" Selected="2" Pane-1="2" Pane-2="1"/>
-		<Pane-11 Type="1" DockingCX="360" DockingCY="286" Panes="1" Selected="7" Pane-1="7"/>
+		<Pane-10 Type="1" DockingCX="275" DockingCY="323" Panes="2" Selected="1" Pane-1="2" Pane-2="1"/>
+		<Pane-11 Type="1" DockingCX="360" DockingCY="474" Panes="1" Selected="7" Pane-1="7"/>
 		<Pane-12 Type="1" DockingCX="360" DockingCY="23" Panes="0"/>
 		<Pane-13 Type="2" DockingCX="1289" Panes="3" Pane-1="14" Pane-2="15" Pane-3="16"/>
 		<Pane-14 Type="4" DockingCY="393"/>
