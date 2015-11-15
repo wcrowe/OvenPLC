@@ -7,7 +7,7 @@
 		<Pane-3 Type="2" DockingCX="1008" Horiz="1" Panes="2" Pane-1="4" Pane-2="6"/>
 		<Pane-4 Type="2" DockingCX="247" DockingCY="200" Panes="1" Pane-1="5"/>
 		<Pane-5 Type="1" DockingCX="275" DockingCY="286" Panes="2" Selected="1" Pane-1="2" Pane-2="1"/>
-		<Pane-6 Type="2" DockingCX="757" Panes="1" Pane-1="7"/>
+		<Pane-6 Type="2" DockingCX="1513" Panes="1" Pane-1="7"/>
 		<Pane-7 Type="4" DockingCY="283"/>
 	</DSP_PANE_SECTION>
 </DockingPaneLayouts>
