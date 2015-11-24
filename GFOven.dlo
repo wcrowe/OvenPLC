@@ -6,7 +6,7 @@
 		<Pane-2 Type="0" DockingCX="360" DockingCY="286" Title="Data2\n\n" ID="6857" DockingHolder="9" LastHolder="9"/>
 		<Pane-3 Type="0" DockingCX="240" DockingCY="286" Title="Instruction Toolbox\n\n" ID="4381" DockingHolder="14" LastHolder="14"/>
 		<Pane-4 Type="0" DockingCX="360" DockingCY="200" Title="Output\nOutput Window\n" ID="6851" DockingHolder="12" LastHolder="12"/>
-		<Pane-5 Type="0" DockingCX="360" DockingCY="200" Title="Find Results 1 (Double-click to go to the corresponding location in the code block)\n\n" ID="6830" DockingHolder="13" LastHolder="13"/>
+		<Pane-5 Type="0" DockingCX="360" DockingCY="200" Title="Find Results 1\n\n" ID="6830" DockingHolder="13" LastHolder="13"/>
 		<Pane-6 Type="2" DockingCX="1920" Horiz="1" Panes="3" Pane-1="7" Pane-2="10" Pane-3="14"/>
 		<Pane-7 Type="2" DockingCX="313" DockingCY="801" Panes="2" Pane-1="8" Pane-2="9"/>
 		<Pane-8 Type="1" DockingCX="360" DockingCY="327" Panes="1" Selected="1" Pane-1="1"/>
